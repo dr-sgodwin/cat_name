@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cat_details_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.smtafe.mycatname.CatDetailsActivity" >
+
+   <TextView
+       android:id="@+id/catDetails"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+       android:layout_marginBottom="19dp" >
+
+    </TextView>
+
+   <Button
+       android:id="@+id/buttonReturn"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+       android:layout_centerVertical="true"
+       android:text="@string/button_name" />
+
+</RelativeLayout>

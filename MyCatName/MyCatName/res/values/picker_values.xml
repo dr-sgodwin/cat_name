@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string-array name="cat_name">
+        <item>Panther</item>
+        <item>Tiger</item>		
+        <item>Lion</item>		
+        <item>Leopard</item>        
+		<item>Jaguar</item>		
+        <item>Cougar</item>		
+		<item>Cheetah</item>
+    </string-array>
+    
+    <string-array name="my_fav_color">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Greeen</item>
+        <item>Blue</item>
+        <item>Indigo</item>
+        <item>Violet</item>        
+    </string-array>
+
+</resources>
